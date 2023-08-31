@@ -1,4 +1,0 @@
-- A tool is designed to accomplish specific tasks or provide answers to distinct types of questions
-  - It allows one to interact with the outside world by using things like Google search of Wikipedia
-- An agent is a bot that can use tools to do things
-  - Agent is a bot that acts using natural language instructions and can use tools to answer its queries
